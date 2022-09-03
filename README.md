@@ -4,4 +4,4 @@
     git clone this_repo
     etc...
 </pre>
-### App is live at <a href="https://react-weather-app-00a05a4.netlify.app">Weather App</a>
+### App is live at <a href="https://react-weather-app-0a05a4.netlify.app">Weather App</a>
